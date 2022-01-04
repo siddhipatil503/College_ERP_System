@@ -11,3 +11,9 @@ Features include attendance, marks and time table. We have decided to have eight
 - ASSIGN_TIME
 - ATTENDANCE 
 - MARKS
+
+**FRONTEND**
+We've used Tkinter , Python's de-facto standard GUI (Graphical User Interface) package for our frontend.
+
+**Database connectivity**
+We've used psycopg2 which is a PostgreSQL connector commonly used by Python developers to connect to Python.
